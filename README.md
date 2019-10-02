@@ -31,16 +31,16 @@ python test.py
 ### Results
 
 #### Loss
-![loss plot] (https://github.com/AhmedNasr7/Vehicle-Classification/blob/master/images/loss.png
+![](images/loss.png)
 
 #### Accuracy
-![accuracy plot] (https://github.com/AhmedNasr7/Vehicle-Classification/blob/master/images/accuracy.png)
+![](images/accuracy.png)
 
 
-### Samples
+#### Samples
 
-![test batch 1] (https://github.com/AhmedNasr7/Vehicle-Classification/blob/master/images/test-batch1.png)
+![](images/test-batch1.png)
 
-![test bbatch 2] (https://github.com/AhmedNasr7/Vehicle-Classification/blob/master/images/test-batch2.png)
+![](images/test-batch2.png)
 
 
