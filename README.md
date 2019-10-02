@@ -9,7 +9,7 @@ The model hit 99.1 % training accuracy and 88.54 % validation accuracy after 42 
 Currently, the dataset has a total of 967 images divided between 3 classes: bicycles, cars, and motorbikes.
 It was split to: 80% training set and 20% validation set.
 
-The dataset can be found [here](https://www.kaggle.com/c/image-classification2/data) and it has beendownloaded using Kaggle API. 
+The dataset can be found [here](https://www.kaggle.com/c/image-classification2/data) and it has been downloaded using Kaggle API. 
 
 
 ### Dependencies
